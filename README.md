@@ -1,6 +1,6 @@
 # github-learning
 this is my first Github repository
-## my Goal
+## my Goal rerere
 Github hand-on
 To learn how to operate Github
 To learn commit
